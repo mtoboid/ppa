@@ -1,0 +1,5 @@
+Origin: . debian
+Label: . debian
+Archive: debian
+Architecture: all
+Component: main
